@@ -6,6 +6,7 @@ This project contains two sub-projects:
 AFS.py is the final code of generating AFS structure, which is reproducted from the code written in Matlab.
 The following applications on Medical fields, transportation fields and sports fields are all based on AFS.py
 
+AFS clustering is reproducted from the code written in Java
 For AFS clustering algorithm, it is an unsupervised learning. But it is fuzzy concepts related.
 How to use AFS clustering?
 1. Import all the functions into a new py file
