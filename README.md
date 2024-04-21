@@ -8,6 +8,7 @@ The following applications on Medical fields, transportation fields and sports f
 
 AFS clustering is reproducted from the code written in Java
 For AFS clustering algorithm, it is an unsupervised learning. But it is fuzzy concepts related.
+
 How to use AFS clustering?
 1. Import all the functions into a new py file
 2. Prepare the datasets
